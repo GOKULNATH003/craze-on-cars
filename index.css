@@ -1,0 +1,47 @@
+body{background-image: url(https://wallpapercave.com/wp/wp5304857.jpg) ;background-repeat: no-repeat;background-size: cover;position: static;}
+
+h1{text-align: center;background: linear-gradient(to right, white ,black)
+   ; -webkit-text-fill-color:transparent;
+-webkit-background-clip: text; font-size: 6vw;pointer-events: all ; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin-top: -15px;position: static;
+}
+
+
+
+
+li{list-style-type: none;display: inline-block;font-size: 2vw;margin-top: -300px;position: static;}
+.nav1{color: aliceblue;text-decoration: none;font-family:Verdana, Geneva, Tahoma, sans-serif;margin-top: auto;margin-bottom: auto;}
+.nav1:hover{color: gray;}
+
+.nav2{color: aliceblue;text-decoration: none;font-family:Verdana, Geneva, Tahoma, sans-serif;}
+.nav2:hover{color: gray;}
+
+.nav3{color: aliceblue;text-decoration: none;font-family:Verdana, Geneva, Tahoma, sans-serif;}
+.nav3:hover{color: gray;}
+
+
+.menu{float: right ;margin-top: -50px;position: static;}
+
+
+.a{font-size: 4vw;color: rgb(216, 216, 216);margin-left: 23%;margin-top: -20px;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+.a:hover{color:aliceblue;}
+
+/*b.....bar.......*/
+
+
+.bar{width: 750px;height: 75px;margin-left: 24%;border-radius: 8px;background-color: white;opacity: .5;}
+
+.but{background-color: antiquewhite;}
+.log{margin-left: 70%;position: relative;margin-top: -50px;}
+/*............note..........*/
+.note{color: cadetblue;font-size: 2vw;text-align: center;}
+.note:hover{ ;color: crimson;}
+
+.but{text-decoration: none;margin-left: 43%;font-size: 1.5vw;background-color: antiquewhite;color: black;padding: 15px;border: 2px;border-color: black;border-radius: 10px;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+.but:hover{background-color: rgb(0, 0, 0);color: aliceblue;}
+.name{float: right;font-size: 2vw;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.name:hover{color: aliceblue;}
+
+.searchbar{width: 700px ;size: 70px;}
+.img9{margin-top: -110px;position:absolute;}
+
