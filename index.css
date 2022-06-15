@@ -1,0 +1,105 @@
+@media screen and (min-width:1024px){
+   
+
+body{background-image: url(./bg.jpg) ;background-repeat: no-repeat;background-size: cover;position: static;}
+
+h1{text-align: center;background: linear-gradient(to right, white ,black)
+   ; -webkit-text-fill-color:transparent;
+-webkit-background-clip: text; font-size: 6vw;pointer-events: all ; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin-top: -15px;position: static;
+}
+
+
+
+
+li{list-style-type: none;display: inline-block;font-size: 2vw;margin-top: -300px;position: static;}
+.nav1{color: aliceblue;text-decoration: none;font-family:Verdana, Geneva, Tahoma, sans-serif;margin-top: auto;margin-bottom: auto;}
+.nav1:hover{color: gray;}
+
+.nav2{color: aliceblue;text-decoration: none;font-family:Verdana, Geneva, Tahoma, sans-serif;}
+.nav2:hover{color: gray;}
+
+.nav3{color: aliceblue;text-decoration: none;font-family:Verdana, Geneva, Tahoma, sans-serif;}
+.nav3:hover{color: gray;}
+
+
+.menu{float: right ;margin-top: -50px;position: static;}
+
+
+.a{font-size: 4vw;color: rgb(216, 216, 216);margin-left: 23%;margin-top: -20px;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+.a:hover{color:aliceblue;}
+
+/*b.....bar.......*/
+
+
+.bar{width: 750px;height: 75px;margin-left: 23%;border-radius: 10px;background-color: white;opacity: .5;}
+
+.but{background-color: antiquewhite;}
+.log{margin-left: 69.5%;position: relative;margin-top: -50px;width: 10px;}
+/*............note..........*/
+.note{color: cadetblue;font-size: 2vw;text-align: center;}
+.note:hover{ color: crimson;}
+
+.but{text-decoration: none;margin-left: 43%;font-size: 1.5vw;background-color: antiquewhite;color: black;padding: 15px;border: 2px;border-color: black;border-radius: 10px;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+.but:hover{background-color: rgb(0, 0, 0);color: aliceblue;}
+.name{float: right;font-size: 2vw;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.name:hover{color: aliceblue;}
+
+
+.img9{margin-top: -105px;position:absolute;width: 10vw;}
+input{font-size: 30px;}
+
+}
+
+@media screen and (max-width:768px){
+   
+
+   body{background-image: url(./bg.jpg) ;;background-size: contain;position: static;background-repeat: no-repeat;background-color: black;}
+   
+   h1{text-align: center;background: linear-gradient(to right, white ,black)
+      ; -webkit-text-fill-color:transparent;
+   -webkit-background-clip: text; font-size: 6vw;pointer-events: all ; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   margin-top: 0px;position: static;
+   }
+   
+   
+   
+   
+   li{list-style-type: none;display: inline-block;font-size: 2vw;;position: static;}
+   .nav1{color: aliceblue;text-decoration: none;font-family:Verdana, Geneva, Tahoma, sans-serif;margin-top: auto;margin-bottom: auto;}
+   .nav1:hover{color: gray;}
+   
+   .nav2{color: aliceblue;text-decoration: none;font-family:Verdana, Geneva, Tahoma, sans-serif;}
+   .nav2:hover{color: gray;}
+   
+   .nav3{color: aliceblue;text-decoration: none;font-family:Verdana, Geneva, Tahoma, sans-serif;}
+   .nav3:hover{color: gray;}
+   
+   
+   .menu{float: right ;margin-top: -70px;position: static;}
+   
+   
+   .a{font-size: 2vw;color: rgb(216, 216, 216);margin-left: 25%;margin-top: -150px;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+   .a:hover{color:aliceblue;}
+   
+   /*b.....bar.......*/
+   
+   
+   .bar{width: 150px;height: 20px;margin-left: 25%;border-radius: 5px;background-color: white;opacity: .5;margin-top: 3vh;}
+   
+   .but{background-color: antiquewhite;}
+   .log{margin-left: 61.5%;position: relative;margin-top: -40px;width: 2px;}
+   /*............note..........*/
+   .note{color: cadetblue;font-size: 1.5vw;text-align: center;margin-top: -12vh;}
+   .note:hover{ color: crimson;}
+   
+   .but{text-decoration: none;margin-left: 40%;font-size: 1vw;background-color: antiquewhite;color: black;padding: 5px;border: 2px;border-color: black;border-radius: 5px;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;position: absolute;margin-top: -11vh;}
+   .but:hover{background-color: rgb(0, 0, 0);color: aliceblue;}
+   .name{float: right;font-size: 1vw;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+   .name:hover{color: aliceblue;}
+   
+   
+   .img9{margin-top: -3vh;position:absolute;width: 5vw;}
+   input{font-size: 2vw;}
+   
+   }
