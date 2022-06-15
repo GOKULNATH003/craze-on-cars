@@ -85,7 +85,7 @@ input{font-size: 30px;}
    /*b.....bar.......*/
    
    
-   .bar{width: 150px;height: 20px;margin-left: 25%;border-radius: 5px;background-color: white;opacity: .5;margin-top: 3vh;}
+   .bar{width: 150px;height: 20px;margin-left: 25%;border-radius: 5px;background-color: white;opacity: .5;margin-top: 3vh;outline:none}
    
    .but{background-color: antiquewhite;}
    .log{margin-left: 61.5%;position: relative;margin-top: -40px;width: 2px;}
