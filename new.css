@@ -78,7 +78,7 @@ position: relative;}
     
 
     .ii1{width: 200px;}
-    body{background-image: url(./bg2.png);background-attachment: fixed;margin-top: -15vh;}
+    body{background-image: url(bg2.png);background-attachment: fixed;margin-top: -15vh;}
     
     
     h1{text-align: center;background: linear-gradient(to right, white ,black)
